@@ -1,0 +1,12 @@
+scikit-learn
+pandas
+pandas_datareader
+matplotlib
+numpy
+statsmodels
+seaborn
+scikeras
+yfinance
+ta-lib
+xgboost
+pycaret==3.3.0
